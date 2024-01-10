@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "package-lock.json": "^1.0.0",
+    "package.json": "^0.0.0"
+  }
+}
