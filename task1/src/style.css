@@ -71,7 +71,7 @@ main {
 .menu ul {
   display: flex;
   list-style: none;
-  margin-top: 22px;
+  margin-top: 25px;
   margin-bottom: 22px;
   padding: 0;
 }
@@ -182,7 +182,7 @@ p {
   margin: 0px auto;
 }
 .image2 {
-  width: 720px;
+  width: 930px;
   height: 360px;
   left: 0px;
   top: 0px;
@@ -217,7 +217,7 @@ p {
 .list {
   width: 341px;
   height: 144px;
-  padding-top: 72px;
+  padding-top: 48px;
   padding-right: 58px;
 }
 
@@ -313,7 +313,7 @@ p {
   column-gap: 48px;
 }
 .wrapper_row3 {
-  display: grid;
+  display: flex;
   grid-template-columns: 1fr max-content;
   gap: 48px;
 }
