@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "FinePower Basic RHB0120",
+      "body": "Перфоратор",
+      "img": "https://c.dns-shop.ru/thumb/st4/fit/wm/0/0/5e60e4cb06bf2c185a1b5b6c1ca807b9/bd17cff2ece8b00f96f2e28713c17a8114e61830b0783240eb831ddee2d53c71.jpg.webp",
+      "code": "121412",
+      "deliever": "DNS"
+    },
+    {
+      "title": "",
+      "body": "",
+      "img": "",
+      "code": "",
+      "deliever": "",
+      "id": 2
+    },
+    {
+      "title": "",
+      "body": "",
+      "img": "",
+      "code": "",
+      "deliever": "",
+      "id": 3
+    },
+    {
+      "title": "",
+      "body": "",
+      "img": "",
+      "code": "",
+      "deliever": "",
+      "id": 4
+    },
+    {
+      "title": "",
+      "body": "",
+      "img": "",
+      "code": "",
+      "deliever": "",
+      "id": 5
+    },
+    {
+      "title": "",
+      "body": "",
+      "img": "",
+      "code": "",
+      "deliever": "",
+      "id": 6
+    },
+    {
+      "id": 1,
+      "title": "FinePower Basic RHB0120",
+      "body": "Перфоратор",
+      "img": "https://c.dns-shop.ru/thumb/st4/fit/wm/0/0/5e60e4cb06bf2c185a1b5b6c1ca807b9/bd17cff2ece8b00f96f2e28713c17a8114e61830b0783240eb831ddee2d53c71.jpg.webp",
+      "code": "121412",
+      "deliever": "DNS"
+    }
+  ],
+  "creatorInfo": {
+    "name": "Школьников Сергей",
+    "group": "6407",
+    "repo": "https://github.com/hilghy"
+  }
+}
